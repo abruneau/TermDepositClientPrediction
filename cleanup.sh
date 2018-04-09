@@ -1,0 +1,1 @@
+hadoop fs -rm /tmp/bank-full.csv
